@@ -6,7 +6,7 @@ Código fonte para geração de códigos de segurança (Captcha)
 Descrição das Pastas
 
 - fonts: Arquivos de fontes para criação do captcha *.ttf
-- audio: Arquivos .*wav para criação do audio
+- audio: Arquivos *.wav para criação do audio
 - lib: Classe do Captcha
 - controller: Classe de controle do captcha
 
